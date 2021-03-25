@@ -1,0 +1,156 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow: gray 5px 5px 5px 5px;
+}
+#table1{
+    right: 20%;
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    font-size: small;
+    color: white;
+}
+td{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.banniereTop{
+    width: 100%;
+    height: 120px;
+    background-color: black;
+}
+.sousNav{
+    background-color: RGB(51, 77, 92);
+    height: 150px;
+   position: relative;
+}
+#boite{
+    margin-left: 50px;
+    margin-top: 10px;
+    width: 100px;
+}
+.ecrit{
+    position: absolute;
+    left: 30%;
+    top:20%;
+    color : white
+}
+.naitre{
+    margin-top: 70px;
+}
+#oeuf{
+    width: 150px;
+    margin-top: 100px;
+}
+.eclosion{
+    position: relative;
+}
+.carrEc{
+    width: 180px;
+    height: 60px;
+    background-color: RGB(51, 77, 92);
+    position: absolute;
+    left: 20%;
+    top: 30px;
+    text-align: center;
+    color: white;
+}
+#ecl{
+    
+    padding: 20px 40px;
+    bottom: 2px;
+    margin: 0;
+}
+.txtH{
+    margin-left: 200px;
+    position: absolute;
+    top: 40%;
+    font-size:15px;
+}
+.apEclo:not(tr){
+    height: 120px;
+    background-color: rgb(251, 217, 172);
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+.icMil{
+    height: 80px;
+    text-align: center;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+#id2{
+    position: absolute;
+    left: 180px;
+    text-align: center;
+    
+}
+.txtEvo{
+    position: absolute;
+    margin-left: 200px;
+    top: 25%;
+    font-size:15px;
+}
+.carrEv{
+    width: 180px;
+    height: 60px;
+    background-color: rgb(51, 77, 92);
+    position: absolute;
+    left: 20%;
+    top: 30px;
+    text-align: center;
+    color: white;
+}
+.apEvo{
+    position: relative;
+}
+.avDer{
+    height: 300px;
+    background-color: burlywood;
+    margin-top: 100px;
+    text-align: center;
+}
+#table3{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+#carteV{
+    position: absolute;
+    left: 45%;
+}
+#envol{
+    position: relative;
+}
+.txtEvo2{
+    position: absolute;
+    margin-left: 200px;
+    top: 40%;
+    font-size:15px;
+
+}
+.avvder{
+    height: 140px;
+    background-color: burlywood;
+    margin-top: 50px;
+}
+.deux{
+    width: 10px;
+}
+.enBas{
+    height: 150px;
+    background-color: grey;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.icMilz{
+    height: 50px;
+}
+.fb{
+    height: 100px;
+}
+
